@@ -58,12 +58,13 @@ Note that we will test your code with another `data.json` file respecting the sa
   - bundling is not important
   - tests: good!
   - styling is not important, except insofar as to convey important information (e.g., selection)
+  - Try to handle edge cases as much as possible
 
 Points awarded for:
   - clean and well encapsulated code
   - control reuse
   - extensibility
-  - clean and idiomatic react/redux
+  - clean and idiomatic react/redu
 
 
 
