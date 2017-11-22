@@ -45,11 +45,11 @@ The final element is a notification / alert bubble that hovers on top of the con
 # Data Structure of the site
 
 ***The site content should be driven programmatically by the `data.json` file.***
-Note that we will test your code with another data.json file respecting the same data structure.
+Note that we will test your code with another `data.json` file respecting the same data structure.
 
 # Important Notes
   - ***Refer yourself to the WIREFRAMES.PDF document to get a better understanding of the site's layout.***
-  - ***The site content should be driven programmatically by the `data. Son` file.***
+  - ***The site content should be driven programmatically by the `data.json` file.***
     - Note that we will test your code with another data.json file respecting the same data structure.
   - we recommend using create-react-app or some other starter
   - recommend redux, but not necessary
